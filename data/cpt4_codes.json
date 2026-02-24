@@ -1,0 +1,92 @@
+{
+    "87804": {
+        "description": "Rapid influenza diagnostic test",
+        "category": "Pathology and Laboratory",
+        "average_cost": 25.00
+    },
+    "99213": {
+        "description": "Office/outpatient visit, established patient, low complexity",
+        "category": "Evaluation and Management",
+        "average_cost": 130.00
+    },
+    "99214": {
+        "description": "Office/outpatient visit, established patient, moderate complexity",
+        "category": "Evaluation and Management",
+        "average_cost": 200.00
+    },
+    "99215": {
+        "description": "Office/outpatient visit, established patient, high complexity",
+        "category": "Evaluation and Management",
+        "average_cost": 300.00
+    },
+    "99281": {
+        "description": "Emergency department visit, minor problem",
+        "category": "Emergency Department",
+        "average_cost": 150.00
+    },
+    "99285": {
+        "description": "Emergency department visit, high severity with significant threat",
+        "category": "Emergency Department",
+        "average_cost": 750.00
+    },
+    "70551": {
+        "description": "MRI brain without contrast",
+        "category": "Radiology",
+        "average_cost": 450.00
+    },
+    "70553": {
+        "description": "MRI brain without contrast, then with contrast",
+        "category": "Radiology",
+        "average_cost": 650.00
+    },
+    "72148": {
+        "description": "MRI lumbar spine without contrast",
+        "category": "Radiology",
+        "average_cost": 500.00
+    },
+    "70450": {
+        "description": "CT head/brain without contrast",
+        "category": "Radiology",
+        "average_cost": 350.00
+    },
+    "71046": {
+        "description": "Chest X-ray, 2 views",
+        "category": "Radiology",
+        "average_cost": 85.00
+    },
+    "93000": {
+        "description": "Electrocardiogram (ECG), 12-lead",
+        "category": "Cardiology",
+        "average_cost": 125.00
+    },
+    "93010": {
+        "description": "Electrocardiogram, interpretation and report only",
+        "category": "Cardiology",
+        "average_cost": 45.00
+    },
+    "84484": {
+        "description": "Troponin, quantitative",
+        "category": "Pathology and Laboratory",
+        "average_cost": 55.00
+    },
+    "27447": {
+        "description": "Total knee arthroplasty (replacement)",
+        "category": "Orthopedic Surgery",
+        "average_cost": 28500.00
+    },
+    "62323": {
+        "description": "Epidural steroid injection, lumbar/sacral",
+        "category": "Pain Management",
+        "average_cost": 1800.00
+    },
+    "97110": {
+        "description": "Therapeutic exercises, each 15 minutes",
+        "category": "Physical Therapy",
+        "average_cost": 75.00
+    },
+    "93458": {
+        "description": "Left heart catheterization with angiography",
+        "category": "Cardiology",
+        "average_cost": 8500.00
+    }
+}

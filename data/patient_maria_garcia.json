@@ -1,0 +1,21 @@
+{
+    "patient_id": "33445",
+    "name": "Maria Garcia",
+    "dob": "1975-11-08",
+    "gender": "Female",
+    "address": {
+        "street": "321 Elm Street",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77001"
+    },
+    "phone": "713-555-2233",
+    "insurance_details": {
+        "policy_number": "XYZ999999",
+        "group_number": "GRP0000",
+        "provider": "Unknown Insurance Co",
+        "subscriber_name": "Maria Garcia",
+        "subscriber_id": "SUB33445",
+        "relationship": "Self"
+    }
+}

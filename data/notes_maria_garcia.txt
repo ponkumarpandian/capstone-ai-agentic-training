@@ -1,0 +1,34 @@
+Patient: Maria Garcia
+Date of Visit: 2026-02-22
+Provider: Dr. Robert Patel, MD — Houston General Hospital Emergency Department
+
+CHIEF COMPLAINT:
+Patient presents with acute chest pain, shortness of breath, and palpitations.
+
+HISTORY OF PRESENT ILLNESS:
+51-year-old female brought to the ER via ambulance with sudden onset chest pain.
+Sharp, substernal chest pain began approximately 2 hours ago while at rest.
+Pain radiates to the left arm and jaw. Associated with diaphoresis and nausea.
+Family history of coronary artery disease (father MI at age 55).
+Patient has known hypertension and hyperlipidemia.
+
+EXAMINATION:
+- Vital signs: BP 162/98, HR 110, Temp 98.2°F, SpO2 94%
+- Cardiac: Tachycardic, regular rhythm, no murmurs
+- Lungs: Bibasilar crackles
+- Extremities: No edema, pulses intact
+
+ASSESSMENT:
+1. Acute coronary syndrome — rule out myocardial infarction
+2. Hypertensive urgency
+3. Chest pain, unspecified
+4. Tachycardia
+5. Dyspnea
+
+PLAN:
+- 12-lead ECG — STAT
+- Troponin levels q6h
+- Chest X-ray
+- Heparin drip per ACS protocol
+- Cardiology consult for possible cardiac catheterization
+- Admit to CCU for observation

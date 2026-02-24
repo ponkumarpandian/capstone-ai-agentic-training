@@ -1,0 +1,21 @@
+{
+    "patient_id": "11223",
+    "name": "Bob Johnson",
+    "dob": "1958-03-22",
+    "gender": "Male",
+    "address": {
+        "street": "789 Pine Road",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80202"
+    },
+    "phone": "303-555-4567",
+    "insurance_details": {
+        "policy_number": "GHI345678",
+        "group_number": "GRP9900",
+        "provider": "Aetna Health",
+        "subscriber_name": "Bob Johnson",
+        "subscriber_id": "SUB11223",
+        "relationship": "Self"
+    }
+}

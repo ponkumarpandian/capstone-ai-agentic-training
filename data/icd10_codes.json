@@ -1,0 +1,94 @@
+{
+    "J10.1": {
+        "description": "Influenza due to other identified influenza virus with other respiratory manifestations",
+        "category": "Influenza and Pneumonia"
+    },
+    "R50.9": {
+        "description": "Fever, unspecified",
+        "category": "General Symptoms and Signs"
+    },
+    "R05.9": {
+        "description": "Cough, unspecified",
+        "category": "General Symptoms and Signs"
+    },
+    "J06.9": {
+        "description": "Acute upper respiratory infection, unspecified",
+        "category": "Acute Upper Respiratory Infections"
+    },
+    "E11.9": {
+        "description": "Type 2 diabetes mellitus without complications",
+        "category": "Diabetes Mellitus"
+    },
+    "G43.1": {
+        "description": "Migraine with aura",
+        "category": "Migraine"
+    },
+    "G44.1": {
+        "description": "Vascular headache, not elsewhere classified",
+        "category": "Other Headache Syndromes"
+    },
+    "M54.4": {
+        "description": "Lumbago with sciatica",
+        "category": "Dorsalgia"
+    },
+    "M54.5": {
+        "description": "Low back pain",
+        "category": "Dorsalgia"
+    },
+    "M51.1": {
+        "description": "Lumbar and other intervertebral disc degeneration",
+        "category": "Other Intervertebral Disc Disorders"
+    },
+    "I10": {
+        "description": "Essential (primary) hypertension",
+        "category": "Hypertensive Diseases"
+    },
+    "I21.9": {
+        "description": "Acute myocardial infarction, unspecified",
+        "category": "Ischemic Heart Diseases"
+    },
+    "I20.0": {
+        "description": "Unstable angina",
+        "category": "Ischemic Heart Diseases"
+    },
+    "R07.9": {
+        "description": "Chest pain, unspecified",
+        "category": "Symptoms Involving Circulatory and Respiratory Systems"
+    },
+    "R00.0": {
+        "description": "Tachycardia, unspecified",
+        "category": "Symptoms Involving Circulatory System"
+    },
+    "R06.0": {
+        "description": "Dyspnea",
+        "category": "Symptoms Involving Respiratory System"
+    },
+    "M17.11": {
+        "description": "Primary osteoarthritis, right knee",
+        "category": "Osteoarthritis"
+    },
+    "E66.01": {
+        "description": "Morbid (severe) obesity due to excess calories",
+        "category": "Obesity"
+    },
+    "N18.2": {
+        "description": "Chronic kidney disease, stage 2 (mild)",
+        "category": "Chronic Kidney Disease"
+    },
+    "I82.401": {
+        "description": "Acute embolism and thrombosis of unspecified deep veins of right lower extremity",
+        "category": "Venous Embolism and Thrombosis"
+    },
+    "M54.16": {
+        "description": "Radiculopathy, lumbar region",
+        "category": "Dorsalgia"
+    },
+    "M54.2": {
+        "description": "Cervicalgia",
+        "category": "Dorsalgia"
+    },
+    "R51.9": {
+        "description": "Headache, unspecified",
+        "category": "General Symptoms and Signs"
+    }
+}

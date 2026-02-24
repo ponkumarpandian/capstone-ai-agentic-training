@@ -1,0 +1,17 @@
+# Azure AI SDK
+azure-ai-projects>=1.0.0b5
+azure-identity>=1.19.0
+azure-search-documents>=11.6.0b8
+azure-storage-blob>=12.24.0
+
+# PDF Generation
+reportlab>=4.2.5
+
+# Web Framework
+fastapi>=0.115.0
+uvicorn>=0.34.0
+python-multipart>=0.0.18
+
+# Utilities
+python-dotenv>=1.0.1
+aiofiles>=24.1.0

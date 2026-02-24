@@ -1,0 +1,21 @@
+{
+    "patient_id": "67890",
+    "name": "Jane Smith",
+    "dob": "1992-07-15",
+    "gender": "Female",
+    "address": {
+        "street": "456 Oak Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60614"
+    },
+    "phone": "312-555-8901",
+    "insurance_details": {
+        "policy_number": "DEF789012",
+        "group_number": "GRP4455",
+        "provider": "BlueCross Shield",
+        "subscriber_name": "Jane Smith",
+        "subscriber_id": "SUB67890",
+        "relationship": "Self"
+    }
+}

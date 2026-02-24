@@ -1,0 +1,21 @@
+{
+  "patient_id": "12345",
+  "name": "John Doe",
+  "dob": "1980-01-01",
+  "gender": "Male",
+  "address": {
+    "street": "123 Main Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62701"
+  },
+  "phone": "555-123-4567",
+  "insurance_details": {
+    "policy_number": "ABC123456",
+    "group_number": "GRP7890",
+    "provider": "HealthCare Inc.",
+    "subscriber_name": "John Doe",
+    "subscriber_id": "SUB12345",
+    "relationship": "Self"
+  }
+}

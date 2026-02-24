@@ -1,0 +1,41 @@
+Patient: Robert Williams
+Date of Visit: 2026-02-15
+Provider: Dr. Amanda Foster, MD — Springfield Surgical Center
+
+CHIEF COMPLAINT:
+Patient presents for pre-operative evaluation for total knee replacement.
+
+HISTORY OF PRESENT ILLNESS:
+61-year-old male with severe osteoarthritis of the right knee. 
+Conservative management has failed including physical therapy, NSAIDs, 
+and two rounds of hyaluronic acid injections over the past 18 months.
+Pain score 8/10 at rest, significantly limiting mobility and daily activities.
+Patient requires a walker for ambulation.
+
+COMORBIDITIES:
+- Type 2 Diabetes Mellitus (HbA1c 7.2%)
+- Hypertension, controlled on lisinopril
+- Obesity (BMI 34.2)
+- Chronic kidney disease stage 2
+- History of DVT (right leg, 2022)
+
+EXAMINATION:
+- Vital signs: BP 138/86, HR 78, Temp 98.6°F
+- Right knee: Severe valgus deformity, crepitus, limited ROM (5-95 degrees)
+- X-ray: Bone-on-bone medial compartment with osteophyte formation
+
+ASSESSMENT:
+1. Severe osteoarthritis right knee — surgical candidate
+2. Type 2 diabetes mellitus
+3. Hypertension
+4. Obesity
+5. Chronic kidney disease
+6. History of deep vein thrombosis
+
+PLAN:
+- Total knee arthroplasty scheduled for 2026-03-01
+- Pre-surgical bloodwork and cardiac clearance
+- DVT prophylaxis protocol
+- Estimated surgical cost: $28,500 (facility + surgeon + anesthesia)
+- 3-day inpatient stay anticipated
+- Post-operative rehabilitation plan

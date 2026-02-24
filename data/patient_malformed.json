@@ -1,0 +1,8 @@
+{
+    "patient_id": "BAD_DATA",
+    "name": "",
+    "insurance_details": {
+        "policy_number": "ABC123456",
+        "provider": "HealthCare Inc."
+    }
+}

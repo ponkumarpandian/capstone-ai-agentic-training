@@ -1,0 +1,33 @@
+Patient: Bob Johnson
+Date of Visit: 2026-02-18
+Provider: Dr. Michael Chen, MD — Denver Orthopedic Associates
+
+CHIEF COMPLAINT:
+Patient presents with severe lower back pain radiating down the left leg for 6 weeks.
+
+HISTORY OF PRESENT ILLNESS:
+68-year-old male with chronic lower back pain, worsening over the past 6 weeks.
+Pain radiates from lumbar region down the left leg to the knee.
+Reports numbness and tingling in the left foot. Difficulty walking and standing.
+Previous lumbar disc surgery in 2019.
+
+EXAMINATION:
+- Vital signs: BP 145/92, HR 82, Temp 98.4°F
+- Musculoskeletal: Tenderness over L4-L5 region
+- Straight leg raise: Positive on left at 30 degrees
+- Reflexes: Diminished left ankle reflex
+- Sensation: Decreased in L5 dermatome left side
+- Motor: 4/5 strength left dorsiflexion
+
+ASSESSMENT:
+1. Lumbar radiculopathy
+2. Degenerative disc disease
+3. Sciatica
+4. Hypertension
+
+PLAN:
+- MRI of lumbar spine
+- Epidural steroid injection consultation
+- Physical therapy referral
+- Continue gabapentin 300mg TID
+- Blood pressure monitoring

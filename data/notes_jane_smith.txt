@@ -1,0 +1,28 @@
+Patient: Jane Smith
+Date of Visit: 2026-02-20
+Provider: Dr. Sarah Kim, MD — Chicago Family Medicine
+
+CHIEF COMPLAINT:
+Patient presents with persistent headache, neck stiffness, and photophobia for the past 3 days.
+
+HISTORY OF PRESENT ILLNESS:
+36-year-old female reports severe throbbing headache localized to the right temple. 
+Associated symptoms include nausea, sensitivity to light, and neck stiffness.
+No history of head trauma. Patient has a history of migraines.
+
+EXAMINATION:
+- Vital signs: BP 128/82, HR 76, Temp 98.6°F
+- Neurological exam: Alert and oriented, cranial nerves intact
+- Neck: Mild stiffness, no meningeal signs
+- Fundoscopic exam: Normal
+
+ASSESSMENT:
+1. Migraine with aura
+2. Tension headache
+3. Cervicalgia (neck pain)
+
+PLAN:
+- CT scan of head without contrast to rule out intracranial pathology
+- Prescribed sumatriptan 50mg for acute migraine relief
+- Recommended follow-up in 2 weeks
+- Referral to neurology if symptoms persist

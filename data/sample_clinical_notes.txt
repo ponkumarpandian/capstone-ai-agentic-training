@@ -1,0 +1,28 @@
+Date of Visit: 2026-01-07
+
+Patient presents with symptoms of fever (101.2°F), persistent cough for 5 days, 
+body aches, fatigue, and mild headache. Onset was sudden approximately 5 days ago.
+
+Physical Examination:
+- Temperature: 101.2°F
+- Blood pressure: 120/80 mmHg
+- Heart rate: 88 bpm
+- Respiratory rate: 18 breaths/min
+- Lungs: Mild bilateral wheezing noted on auscultation
+- Throat: Mild erythema, no exudates
+
+Assessment:
+Patient is diagnosed with Influenza due to other identified influenza virus 
+with other respiratory manifestations. Rapid influenza test positive for 
+Influenza A.
+
+Plan:
+- Prescribed oseltamivir (Tamiflu) 75mg twice daily for 5 days
+- Recommended rest, increased fluid intake
+- Over-the-counter acetaminophen for fever and pain management
+- Follow-up in 7 days if symptoms do not improve
+- Patient educated on respiratory hygiene and isolation precautions
+
+Provider: Dr. Jane Smith, MD
+NPI: 1234567890
+Facility: Springfield Medical Center

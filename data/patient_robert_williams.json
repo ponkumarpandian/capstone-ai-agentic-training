@@ -1,0 +1,21 @@
+{
+    "patient_id": "55667",
+    "name": "Robert Williams",
+    "dob": "1965-09-30",
+    "gender": "Male",
+    "address": {
+        "street": "555 Maple Drive",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+    },
+    "phone": "217-555-7788",
+    "insurance_details": {
+        "policy_number": "ABC123456",
+        "group_number": "GRP7890",
+        "provider": "HealthCare Inc.",
+        "subscriber_name": "Robert Williams",
+        "subscriber_id": "SUB55667",
+        "relationship": "Spouse"
+    }
+}
